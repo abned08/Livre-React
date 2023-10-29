@@ -1,0 +1,23 @@
+.dx-data-row .cell-highlightedSection {
+    color: #ff0007;
+}
+
+.dx-header-row .cell-highlightedSection {
+    color: #f10a10;
+
+}
+.dx-data-row .cell-highlightedIlot {
+    color: #048622;
+}
+
+.dx-header-row .cell-highlightedIlot {
+    color: #048622;
+}
+.dx-data-row .cell-highlightedlot {
+    color: #1804f7;
+}
+
+.dx-header-row .cell-highlightedlot {
+    color: #1804f7;
+}
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+    <fontFamily name="Amoriah">
+        <normal><![CDATA[fonts/Amoriah.ttf]]></normal>
+        <pdfEmbedded><![CDATA[false]]></pdfEmbedded>
+        <exportFonts/>
+    </fontFamily>
+
+    <fontFamily name="Arial">
+        <normal><![CDATA[fonts/ARIAL.ttf]]></normal>
+        <bold><![CDATA[fonts/ARIALBD.ttf]]></bold>
+        <italic><![CDATA[fonts/ARIALI.ttf]]></italic>
+        <bolditalic><![CDATA[fonts/ARIALBI.ttf]]></bolditalic>
+        <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+        <exportFonts/>
+    </fontFamily>
+
+    <fontFamily name="Futura">
+        <normal><![CDATA[fonts/Futura Book font.ttf]]></normal>
+        <italic><![CDATA[fonts/Futura Book Italic font.ttf]]></italic>
+        <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+        <exportFonts/>
+    </fontFamily>
+</fontFamilies>

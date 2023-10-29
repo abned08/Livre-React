@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Amoriah;
+    font-style: normal;
+    src: url(./fonts/Amoriah.ttf) format("truetype");
+}
+@font-face {
+    font-family: Futura;
+    font-style: normal;
+    src: url(./fonts/Futura_book_font.ttf) format("truetype");
+}

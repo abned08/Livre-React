@@ -1,0 +1,58 @@
+/*!
+ * FilePond 4.30.4
+ * Licensed under MIT, https://opensource.org/licenses/MIT/
+ * Please visit https://pqina.nl/filepond/ for details.
+ */
+
+/*!
+ * FilePondPluginFileValidateType 1.2.8
+ * Licensed under MIT, https://opensource.org/licenses/MIT/
+ * Please visit https://pqina.nl/filepond/ for details.
+ */
+
+/*!
+ * FilePondPluginPdfPreview 1.0.2
+ * Licensed under MIT, https://opensource.org/licenses/MIT/
+ * Please visit undefined for details.
+ */
+
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <http://feross.org>
+ * @license  MIT
+ */
+
+/*!
+ * devextreme-react
+ * Version: 20.2.5
+ * Build date: Fri Jan 15 2021
+ *
+ * Copyright (c) 2012 - 2021 Developer Express Inc. ALL RIGHTS RESERVED
+ *
+ * This software may be modified and distributed under the terms
+ * of the MIT license. See the LICENSE file in the root of the project for details.
+ *
+ * https://github.com/DevExpress/devextreme-react
+ */
+
+/*!
+ * react-filepond v7.1.2
+ * A handy FilePond adapter component for React
+ * 
+ * Copyright (c) 2022 PQINA
+ * https://pqina.nl/filepond
+ * 
+ * Licensed under the MIT license.
+ */
+
+/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+/** @license React v17.0.2
+ * react-is.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */

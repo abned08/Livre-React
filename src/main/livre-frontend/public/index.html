@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="./favicon.ico"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#1976d2" />
+    <meta
+      name="description"
+      content="App created by Aboubaker Nedjimi abned08@gmail.com"
+    />
+    <link rel="apple-touch-icon" href="./logo192.png" />
+
+    <link rel="manifest" href="./manifest.json" />
+
+    <link rel="stylesheet" href="./css/dx.common.css">
+    <link rel="dx-theme" data-theme="material.blue.light" href="./css/dx.material.blue.light.css" data-active="true"/>
+    <link rel="dx-theme" data-theme="material.blue.dark" href="./css/dx.material.blue.dark.css" data-active="false"/>
+    <title>برنامج المحافظة العقارية</title>
+  </head>
+  <body>
+    <noscript>يرجى تفعيل Java Script</noscript>
+    <div id="root"></div>
+    <script>
+      if('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('./serviceworker.js')
+                  .then((reg) => console.log('Success: ', reg.scope))
+                  .catch((err) => console.log('Failure: ', err));
+        })
+      }
+    </script>
+  </body>
+</html>
