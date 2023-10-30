@@ -1,1 +1,3 @@
-# Livre-React
+Livre-React stands as a cutting-edge progressive web application, meticulously crafted with React.js powering the frontend and Spring Boot anchoring the backend, all seamlessly integrated with PostgreSQL, a robust and scalable database solution. Embracing the power of Redux Toolkit, Livre-React offers unparalleled flexibility in web design, ensuring a seamless user experience.
+
+One of Livre-React's standout features lies in its multilingual capabilities, supporting Arabic, English, and French languages, all expertly managed through React-i18next. Additionally, the application boasts an aesthetically pleasing design, thanks to the strategic implementation of Material Design principles, enhancing both functionality and visual appeal. With Livre-React, users can expect a harmonious blend of advanced technology and elegant design, making it a standout choice in the realm of web applications.
