@@ -129,7 +129,7 @@ public class DossierController {
             updateDossier = dossierRepo.save(dossier);
         } else {
             try {
-                String fileName = StringUtils.cleanPath(Objects.requireNonNull(multipartFile.getOriginalFilename()));
+                // String fileName = StringUtils.cleanPath(Objects.requireNonNull(multipartFile.getOriginalFilename()));
                 String newFileName = "dossier N°= " + dossier.getNum() + ".pdf" ;
                 dossier.setPdfFile(newFileName);
                 updateDossier = dossierRepo.save(dossier);
