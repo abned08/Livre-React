@@ -2689,7 +2689,7 @@ $style-block-width: 400px;
 
             > a {
                 &[data-value="background-img-#{$i}"] {
-                    background-image: url("./../../../images/nav-bg/body-bg-#{$i}.jpg");
+                    // background-image: url("./../../../images/nav-bg/body-bg-#{$i}.jpg");
 
                     > span:nth-child(1) {
                         &:after,
@@ -2893,7 +2893,7 @@ $style-block-width: 400px;
 
             > a {
                 &[data-value="background-img-#{$i}"] {
-                    background-image: url("./../../../images/nav-bg/body-bg-#{$i}.jpg");
+                    // background-image: url("./../../../images/nav-bg/body-bg-#{$i}.jpg");
 
                     > span:nth-child(1) {
                         &:after,
@@ -3319,10 +3319,10 @@ body {
         $i: index($color-header-grd-name, $value);
 
         &.background-img-#{$i} {
-            background-image: url("./../../../images/nav-bg/body-bg-#{$i}.jpg");
+            // background-image: url("./../../../images/nav-bg/body-bg-#{$i}.jpg");
 
             .pcoded-navbar.theme-horizontal ~ .pcoded-header[class*="header-"] {
-                background-image: url("./../../../images/nav-bg/body-bg-#{$i}.jpg");
+                // background-image: url("./../../../images/nav-bg/body-bg-#{$i}.jpg");
             }
         }
     }
@@ -3406,7 +3406,7 @@ body {
     }
 
     &.navbar-image-1 {
-        background-image: url("./../../../images/nav-bg/navbar-img-1.jpg");
+        // background-image: url("./../../../images/nav-bg/navbar-img-1.jpg");
     }
     // &.navbar-image-2 {
     //     background-image: url("./../../../images/nav-bg/navbar-img-2.jpg");
